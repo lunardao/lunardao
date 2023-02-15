@@ -10,13 +10,13 @@ LunarDAO Stewards were [proposed](https://forum.lunardao.net/t/tokenomics-lunar-
 
 If you want to support the ongoing works, the abovementioned primitives and the deveopment leading to LunarDAO the launch and further investments, we - the Stewards (core team and founders) of LunarDAO accept donations to our shared multi-sig wallet:
 
-**ETH:**
+### ETH
 ```
 0xAb501a8Eb58c9780eb04D683feB504fcE391A2DD
 ```
 
-We Accept and encourage ETH from tornado cash!
+**WE ACCEPT AND ENCOURAGE PAYMENTS FROM TORNADO CASH!**
 
-All the external workers and ongoing services will be paid before Stewards!
+**All the external workers and ongoing services will be paid before Stewards!**
 
 **IMPORTANT:** *Stewards wallet is NOT the same one as the [DAO treasury](https://etherscan.io/enslookup-search?search=lunarpunksquad.eth!)*
