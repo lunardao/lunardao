@@ -1,4 +1,6 @@
-# Accepting Donations
+![](https://github.com/lunardao/dao/blob/main/support_ld.png)
+
+# Support LunarDAO Development
 
 **Quality over speed**
 
@@ -6,11 +8,13 @@ Laying down the foundation of the DAO has been an ongoing work for several month
 
 We have decided to NOT open any private presale, neither VC rounds nor ask for grants. Based on the community decision LunarDAO tabled the first tokenomics design/contracts and halted the planned Genesis token sale. Now we are building the [architecture v2](https://github.com/lunardao/dao/edit/main/README.md) better aligned with the objectives. We stick to the plan and believe that the re-doing of the fundamentals is for the quality of LunarDAO [mission](https://wiki.lunardao.net/manifesto.html). However this exposes the core-team and supporting externals to the growing preasure of operational costs.
 
+## Accepting Donations
+
 LunarDAO Stewards were [proposed](https://forum.lunardao.net/t/tokenomics-lunar-vox/89/18?u=ogma) to accept donations in order to take more time for the needed development. The proposal was agreed upon in the [ircd community meeting](https://twitter.com/lunarpunksquad/status/1615001037949075456).
 
 If you want to support the ongoing works, the abovementioned primitives and the deveopment leading to LunarDAO the launch and further investments, we - the Stewards (core team and founders) of LunarDAO accept donations to our shared multi-sig wallet:
 
-### ETH
+### ETH:
 ```
 0xAb501a8Eb58c9780eb04D683feB504fcE391A2DD
 ```
