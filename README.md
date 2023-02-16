@@ -93,7 +93,7 @@ Both have advantages and disadvantages:
 | **GuildKick** | Any member can propose others to be kicked out | None | None | GuildKick process is a complex process, hard to kick ppl out in this setup |
 | **Operation overhead** | Possible to use the Onboarder | More work to onboard ppl manually | Less work with the setup | Hard to GuildKick & keep the DAO aligned with the mission |
 
-2. What shall be the relation between $LUNAR (shares) & $VOX (loot) on economical and technical level.  
+2. What shall be the relation between Loot ($LUNAR) & Shares ($VOX) on economical and technical level.  
 
     a) Shall $VOX (shares) be non-transferable and $LUNAR (Loot) liquid, or alternatively both liquid or both non-transferable?  
     b) Shall $LUNAR as loot be introduced at launch, later/after launch or not at all?   
